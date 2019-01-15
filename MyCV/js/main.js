@@ -3,15 +3,8 @@ $(document).ready(function() {
   // Data Portfolio
   var btnPortfolio = ["All", "Template", "Project"];
   var projects = [
-    { src: "./img/1.jpg", href: "#" },
-    { src: "./img/2.jpg", href: "#" },
-    { src: "./img/3.jpg", href: "#" },
-    { src: "./img/4.jpg", href: "#" },
-    { src: "./img/5.jpg", href: "#" },
-    { src: "./img/6.jpg", href: "#" },
-    { src: "./img/7.jpg", href: "#" },
-    { src: "./img/8.jpg", href: "#" },
-    { src: "./img/9.jpg", href: "#" }
+    { src: "./img/project_qlnv.png", href: "http://ducthaind126.freevnn.com/index.html" },
+    { src: "./img/project_qltt.png", href: "http://ducthaind128.freevnn.com/index.html" },
   ];
   var templates = [
     { src: "./img/templates_bake.png", href: "#" },
